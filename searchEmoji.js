@@ -16,12 +16,12 @@ var data = JSON.parse(fs.readFileSync('emoji.json', 'utf8'));
 // }
 const result = data.gitmojis
   .filter((item) => {
-    return item.description.indexOf(keyword) >= 0 || item.name.indexOf(keyword) >= 0;
+    return item.description.toLowerCase().indexOf(keyword) >= 0 || item.name.toLowerCase().indexOf(keyword) >= 0;
   })
   .map((res) => {
     var alfredJson = {
       uid: res.name,
-      title: res.emoji,
+      title: res.name,
       subtitle: res.description,
       icon: {
         path: `icons/${res.name}.png`
@@ -31,48 +31,4 @@ const result = data.gitmojis
     return alfredJson;
   });
 
-// console.log(result);
-// const websites = [
-//   {
-//     title: 'wiki.lianjia.com',
-//     // subtitle: name,
-//     arg: "http://wiki.lianjia.com",
-//     icon: {
-//       path: "wiki.ico"
-//     }
-//   },
-//   {
-//     title: "jira2.lianjia.com",
-//     arg: "http://jira2.lianjia.com",
-//     icon: {
-//       path: "jira.ico"
-//     }
-//   },
-//   {
-//     title: "git.lianjia.com",
-//     arg: "http://git.lianjia.com",
-//     icon: {
-//       path: "git.png"
-//     }
-//   },
-//   {
-//     title: "dkkaoqin",
-//     arg: "http://kaoqin.hr.ke.com/attendance/calendar",
-//     icon: {
-//       path: 'ke.ico'
-//     }
-//   },
-//   {
-//     title: "fuxi",
-//     arg: "http://fuxi.ke.com/d/pipeline",
-//     icon: {
-//       path: 'fuxi.png'
-//     }
-//   }
-// ]
-
-// const result = {
-//   "items" : websites.filter(site => site.title.indexOf(keyword) >= 0)
-// }
-
-console.log(JSON.stringify(result));
+console.log(JSON.stringify({ items: result }));
