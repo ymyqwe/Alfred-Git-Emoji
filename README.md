@@ -3,8 +3,11 @@
 :tada: Alfred workflow to copy git emoji
 
 ## Requirements
-* Alfred Workflow
-* [Nodejs](https://nodejs.org/en/) 8+
+
+- Alfred Workflow
+- [Nodejs](https://nodejs.org/en/) 8+
+
+## [Download](https://github.com/ymyqwe/Alfred-Git-Emoji/releases)
 
 ## Usage
 
@@ -75,7 +78,7 @@
 | :wheelchair: (轮椅)                      | `:wheelchair:`                | Improving accessibility                     | 优化辅助选项                      |
 | :bulb: (灯泡)                            | `:bulb:`                      | Documenting source code                     | 为源代码添加文档                  |
 | :beers: (啤酒)                           | `:beers:`                     | Writing code drunkenly                      | 喝醉时写的代码                    |
-| :speech_balloon: (对话气球)                  | `:speech_balloon:`            | Updating text and literals                  | 更新文本和文字                    |
+| :speech_balloon: (对话气球)              | `:speech_balloon:`            | Updating text and literals                  | 更新文本和文字                    |
 | :card_file_box: (卡片文件盒)             | `:card_file_box:`             | Performing database related changes         | 数据库相关变化                    |
 | :loud_sound: (大喇叭)                    | `:loud_sound:`                | Adding logs                                 | 添加日志                          |
 | :mute: (静音)                            | `:mute:`                      | Removing logs                               | 删除日志                          |
@@ -86,7 +89,7 @@
 | :clown_face: (小丑)                      | `:clown_face:`                | Mocking things                              | 模拟数据                          |
 | :egg: (蛋)                               | `:egg:`                       | Adding an easter egg                        | 添加彩蛋                          |
 | :see_no_evil: (挡眼睛)                   | `:see_no_evil:`               | Adding or updating a .gitignore file        | 添加或更新.gitignore              |
-| :camera_flash: (相机闪光)              | `:camera_flash:`              | Adding or updating snapshots                | 添加或更新快照                    |
+| :camera_flash: (相机闪光)                | `:camera_flash:`              | Adding or updating snapshots                | 添加或更新快照                    |
 | :alembic: (蒸馏器)                       | `:alembic:`                   | Experimenting new things                    | 实验性特性                        |
 | :mag: (放大镜)                           | `:mag:`                       | Improving SEO                               | 优化 SEO                          |
 | :wheel_of_dharma: (佛法轮)               | `:wheel_of_dharma:`           | Work about Kubernetes                       | Kubernets 相关工作                |
