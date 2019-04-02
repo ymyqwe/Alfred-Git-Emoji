@@ -25,6 +25,8 @@
 
 ### 4. Commit your git message
 
+> git commit -m ":bug: fix bugs"
+
 ![screenshot_4](screenshots/commit.png)
 
 ## Coverage
