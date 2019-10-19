@@ -16,13 +16,13 @@ var data = JSON.parse(fs.readFileSync('emoji.json', 'utf8'));
 // }
 const result = data.gitmojis
   .filter((item) => {
-    return item.description.toLowerCase().indexOf(keyword) >= 0 || item.name.toLowerCase().indexOf(keyword) >= 0;
+    return item.description.toLowerCase().indexOf(keyword) >= 0 || item.name.toLowerCase().indexOf(keyword) >= 0 || item.cn.indexOf(keyword) >= 0;
   })
   .map((res) => {
     var alfredJson = {
       uid: res.name,
       title: res.name,
-      subtitle: res.description,
+      subtitle: res.cn + "(" + res.description + ")",
       icon: {
         path: `icons/${res.name}.png`
       },
