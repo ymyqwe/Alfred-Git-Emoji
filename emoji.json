@@ -5,7 +5,7 @@
       "entity": "&#x1f3a8;",
       "code": ":art:",
       "description": "Improving structure / format of the code.",
-      "cn": "优化代码结构/格式化代码",
+      "cn": "改进代码结构/代码格式",
       "name": "art"
     },
     {
@@ -13,6 +13,7 @@
       "entity": "&#x26a1;",
       "code": ":zap:",
       "description": "Improving performance.",
+      "cn": "提升性能",
       "name": "zap"
     },
     {
@@ -20,6 +21,7 @@
       "entity": "&#x1f525;",
       "code": ":fire:",
       "description": "Removing code or files.",
+      "cn": "移除代码或文件",
       "name": "fire"
     },
     {
@@ -27,6 +29,7 @@
       "entity": "&#x1f41b;",
       "code": ":bug:",
       "description": "Fixing a bug.",
+      "cn": "修复bug",
       "name": "bug"
     },
     {
@@ -34,6 +37,7 @@
       "entity": "&#128657;",
       "code": ":ambulance:",
       "description": "Critical hotfix.",
+      "cn": "重要补丁",
       "name": "ambulance"
     },
     {
@@ -41,6 +45,7 @@
       "entity": "&#x2728;",
       "code": ":sparkles:",
       "description": "Introducing new features.",
+      "cn": "引入新功能",
       "name": "sparkles"
     },
     {
@@ -48,6 +53,7 @@
       "entity": "&#x1f4dd;",
       "code": ":memo:",
       "description": "Writing docs.",
+      "cn": "撰写文档",
       "name": "memo"
     },
     {
@@ -55,6 +61,7 @@
       "entity": "&#x1f680;",
       "code": ":rocket:",
       "description": "Deploying stuff.",
+      "cn": "部署功能",
       "name": "rocket"
     },
     {
@@ -62,6 +69,7 @@
       "entity": "&#x1f485;",
       "code": ":nail_care:",
       "description": "Updating the UI and style files.",
+      "cn": "更新UI样式文件",
       "name": "nail_care"
     },
     {
@@ -69,6 +77,7 @@
       "entity": "&#127881;",
       "code": ":tada:",
       "description": "Initial commit.",
+      "cn": "初次提交",
       "name": "tada"
     },
     {
@@ -76,6 +85,7 @@
       "entity": "&#x2705;",
       "code": ":white_check_mark:",
       "description": "Updating tests.",
+      "cn": "增加测试",
       "name": "white_check_mark"
     },
     {
@@ -83,6 +93,7 @@
       "entity": "&#x1f512;",
       "code": ":lock:",
       "description": "Fixing security issues.",
+      "cn": "修复安全问题",
       "name": "lock"
     },
     {
@@ -90,6 +101,7 @@
       "entity": "&#x1f34e;",
       "code": ":apple:",
       "description": "Fixing something on macOS.",
+      "cn": "修复macOS下的问题",
       "name": "apple"
     },
     {
@@ -97,6 +109,7 @@
       "entity": "&#x1f427;",
       "code": ":penguin:",
       "description": "Fixing something on Linux.",
+      "cn": "修复Linux下的问题",
       "name": "penguin"
     },
     {
@@ -104,6 +117,7 @@
       "entity": "&#x1f3c1;",
       "code": ":checkered_flag:",
       "description": "Fixing something on Windows.",
+      "cn": "修复Windows下的问题",
       "name": "checkered_flag"
     },
     {
@@ -111,6 +125,7 @@
       "entity": "&#129302;",
       "code": ":robot:",
       "description": "Fixing something on Android.",
+      "cn": "修复Android下的问题",
       "name": "robot"
     },
     {
@@ -118,6 +133,7 @@
       "entity": "&#127823;",
       "code": ":green_apple:",
       "description": "Fixing something on iOS.",
+      "cn": "修复iOS下的问题",
       "name": "green_apple"
     },
     {
@@ -125,6 +141,7 @@
       "entity": "&#x1f516;",
       "code": ":bookmark:",
       "description": "Releasing / Version tags.",
+      "cn": "发行/版本标签",
       "name": "bookmark"
     },
     {
@@ -132,6 +149,7 @@
       "entity": "&#x1f6a8;",
       "code": ":rotating_light:",
       "description": "Removing linter warnings.",
+      "cn": "移除linter警告",
       "name": "rotating_light"
     },
     {
@@ -139,6 +157,7 @@
       "entity": "&#x1f6a7;",
       "code": ":construction:",
       "description": "Work in progress.",
+      "cn": "工作进行中",
       "name": "construction"
     },
     {
@@ -146,6 +165,7 @@
       "entity": "&#x1f49a;",
       "code": ":green_heart:",
       "description": "Fixing CI Build.",
+      "cn": "修复CI构建问题",
       "name": "green_heart"
     },
     {
@@ -153,6 +173,7 @@
       "entity": "⬇️",
       "code": ":arrow_down:",
       "description": "Downgrading dependencies.",
+      "cn": "降级依赖",
       "name": "arrow_down"
     },
     {
@@ -160,6 +181,7 @@
       "entity": "⬆️",
       "code": ":arrow_up:",
       "description": "Upgrading dependencies.",
+      "cn": "升级依赖",
       "name": "arrow_up"
     },
     {
@@ -167,6 +189,7 @@
       "entity": "&#x1F4CC;",
       "code": ":pushpin:",
       "description": "Pinning dependencies to specific versions.",
+      "cn": "将依赖固定到特定的版本",
       "name": "pushpin"
     },
     {
@@ -174,12 +197,14 @@
       "entity": "&#x1f477;",
       "code": ":construction_worker:",
       "description": "Adding CI build system.",
+      "cn": "添加CI构建系统",
       "name": "construction_worker"
     },
     {
       "emoji": "📈",
       "code": ":chart_with_upwards_trend:",
       "description": "Adding analytics or tracking code.",
+      "cn": "添加分析或跟踪代码",
       "name": "chart_with_upwards_trend"
     },
     {
@@ -187,6 +212,7 @@
       "entity": "&#x2672;",
       "code": ":recycle:",
       "description": "Refactoring code.",
+      "cn": "重构代码",
       "name": "recycle"
     },
     {
@@ -194,6 +220,7 @@
       "entity": "&#x1f433;",
       "code": ":whale:",
       "description": "Work about Docker.",
+      "cn": "Docker相关工作",
       "name": "whale"
     },
     {
@@ -201,6 +228,7 @@
       "entity": "&#10133;",
       "code": ":heavy_plus_sign:",
       "description": "Adding a dependency.",
+      "cn": "增加一个依赖",
       "name": "heavy_plus_sign"
     },
     {
@@ -208,6 +236,7 @@
       "entity": "&#10134;",
       "code": ":heavy_minus_sign:",
       "description": "Removing a dependency.",
+      "cn": "减少一个依赖",
       "name": "heavy_minus_sign"
     },
     {
@@ -215,6 +244,7 @@
       "entity": "&#x1f527;",
       "code": ":wrench:",
       "description": "Changing configuration files.",
+      "cn": "修改配置文件",
       "name": "wrench"
     },
     {
@@ -222,6 +252,7 @@
       "entity": "&#127760;",
       "code": ":globe_with_meridians:",
       "description": "Internationalization and localization.",
+      "cn": "国际化与本地化",
       "name": "globe_with_meridians"
     },
     {
@@ -229,6 +260,7 @@
       "entity": "&#59161;",
       "code": ":pencil2:",
       "description": "Fixing typos.",
+      "cn": "修复打字错误",
       "name": "pencil"
     },
     {
@@ -236,6 +268,7 @@
       "entity": "&#58613;",
       "code": ":hankey:",
       "description": "Writing bad code that needs to be improved.",
+      "cn": "编写需要改进的糟糕代码",
       "name": "hankey"
     },
     {
@@ -243,6 +276,7 @@
       "entity": "&#9194;",
       "code": ":rewind:",
       "description": "Reverting changes.",
+      "cn": "回退变动",
       "name": "rewind"
     },
     {
@@ -250,6 +284,7 @@
       "entity": "&#128256;",
       "code": ":twisted_rightwards_arrows:",
       "description": "Merging branches.",
+      "cn": "合入分支",
       "name": "twisted_rightwards_arrows"
     },
     {
@@ -257,6 +292,7 @@
       "entity": "&#1F4E6;",
       "code": ":package:",
       "description": "Updating compiled files or packages.",
+      "cn": "更新已编译的文件或包",
       "name": "package"
     },
     {
@@ -264,6 +300,7 @@
       "entity": "&#1F47D;",
       "code": ":alien:",
       "description": "Updating code due to external API changes.",
+      "cn": "由于外部API更改而更新代码",
       "name": "alien"
     },
     {
@@ -271,6 +308,7 @@
       "entity": "&#1F69A;",
       "code": ":truck:",
       "description": "Moving or renaming files.",
+      "cn": "移动或重命名文件",
       "name": "truck"
     },
     {
@@ -278,6 +316,7 @@
       "entity": "&#1F4C4;",
       "code": ":page_facing_up:",
       "description": "Adding or updating license.",
+      "cn": "添加或更新许可证",
       "name": "page_facing_up"
     },
     {
@@ -285,6 +324,7 @@
       "entity": "&#x1f4a5;",
       "code": ":boom:",
       "description": "Introducing breaking changes.",
+      "cn": "引入巨大的变更",
       "name": "boom"
     },
     {
@@ -292,6 +332,7 @@
       "entity": "&#1F371",
       "code": ":bento:",
       "description": "Adding or updating assets.",
+      "cn": "添加或更新资源",
       "name": "bento"
     },
     {
@@ -299,6 +340,7 @@
       "entity": "&#x1f44c;",
       "code": ":ok_hand:",
       "description": "Updating code due to code review changes.",
+      "cn": "由于代码评审变动而更新代码",
       "name": "ok_hand"
     },
     {
@@ -306,6 +348,7 @@
       "entity": "&#9855;",
       "code": ":wheelchair:",
       "description": "Improving accessibility.",
+      "cn": "提高可访问性",
       "name": "wheelchair"
     },
     {
@@ -313,6 +356,7 @@
       "entity": "&#128161;",
       "code": ":bulb:",
       "description": "Documenting source code.",
+      "cn": "记录源代码",
       "name": "bulb"
     },
     {
@@ -320,6 +364,7 @@
       "entity": "&#x1f37b;",
       "code": ":beers:",
       "description": "Writing code drunkenly.",
+      "cn": "醉醺醺的编写代码",
       "name": "beers"
     },
     {
@@ -327,6 +372,7 @@
       "entity": "&#128172;",
       "code": ":speech_balloon:",
       "description": "Updating text and literals.",
+      "cn": "更新文本和文字",
       "name": "speech_balloon"
     },
     {
@@ -334,6 +380,7 @@
       "entity": "&#128451;",
       "code": ":card_file_box:",
       "description": "Performing database related changes.",
+      "cn": "执行与数据库相关的更改",
       "name": "card_file_box"
     },
     {
@@ -341,6 +388,7 @@
       "entity": "&#128266;",
       "code": ":loud_sound:",
       "description": "Adding logs.",
+      "cn": "添加日志",
       "name": "loud_sound"
     },
     {
@@ -348,6 +396,7 @@
       "entity": "&#128263;",
       "code": ":mute:",
       "description": "Removing logs.",
+      "cn": "移除日志",
       "name": "mute"
     },
     {
@@ -355,6 +404,7 @@
       "entity": "&#128101;",
       "code": ":busts_in_silhouette:",
       "description": "Adding contributor(s).",
+      "cn": "添加贡献者",
       "name": "busts_in_silhouette"
     },
     {
@@ -362,6 +412,7 @@
       "entity": "&#128696;",
       "code": ":children_crossing:",
       "description": "Improving user experience / usability.",
+      "cn": "提升用户体验/可用性",
       "name": "children_crossing"
     },
     {
@@ -369,6 +420,7 @@
       "entity": "&#1f3d7;",
       "code": ":building_construction:",
       "description": "Making architectural changes.",
+      "cn": "做出架构上的更改",
       "name": "building_construction"
     },
     {
@@ -376,6 +428,7 @@
       "entity": "&#128241;",
       "code": ":iphone:",
       "description": "Working on responsive design.",
+      "cn": "致力于响应式设计",
       "name": "iphone"
     },
     {
@@ -383,6 +436,7 @@
       "entity": "&#129313;",
       "code": ":clown_face:",
       "description": "Mocking things.",
+      "cn": "mock相关",
       "name": "clown_face"
     },
     {
@@ -390,6 +444,7 @@
       "entity": "&#129370;",
       "code": ":egg:",
       "description": "Adding an easter egg.",
+      "cn": "添加一个复活节彩蛋",
       "name": "egg"
     },
     {
@@ -397,6 +452,7 @@
       "entity": "&#8bdfe7;",
       "code": ":see_no_evil:",
       "description": "Adding or updating a .gitignore file",
+      "cn": "添加或更新.gitignore文件",
       "name": "see_no_evil"
     },
     {
@@ -404,6 +460,7 @@
       "entity": "&#128248;",
       "code": ":camera_flash:",
       "description": "Adding or updating snapshots",
+      "cn": "添加或更新快照",
       "name": "camera_flash"
     },
     {
@@ -411,6 +468,7 @@
       "entity": "&#128248;",
       "code": ":alembic:",
       "description": "Experimenting new things",
+      "cn": "尝试新事物",
       "name": "alembic"
     },
     {
@@ -418,6 +476,7 @@
       "entity": "&#128269;",
       "code": ":mag:",
       "description": "Improving SEO",
+      "cn": "提升SEO",
       "name": "mag"
     },
     {
@@ -425,6 +484,7 @@
       "entity": "&#9784;",
       "code": ":wheel_of_dharma:",
       "description": "Work about Kubernetes",
+      "cn": "Kubernetes相关的工作",
       "name": "wheel_of_dharma"
     },
     {
@@ -432,6 +492,7 @@
       "entity": "&#127991;",
       "code": ":label:",
       "description": "Adding or updating types (Flow, TypeScript)",
+      "cn": "添加或更新类型(Flow,Typescript)",
       "name": "label"
     }
   ]
