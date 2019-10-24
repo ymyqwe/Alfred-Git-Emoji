@@ -102,3 +102,11 @@
 1. [Emoji cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 2. [Gitmoji](https://gitmoji.carloscuesta.me/)
 3. [Git commit emoji cn](https://github.com/liuchengxu/git-commit-emoji-cn)
+
+## Changelog
+
+### [1.0]
+- Initial Version
+
+### [1.1]
+- Support Chinese search - pull request by [@lsxiao](https://github.com/lsxiao)
